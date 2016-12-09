@@ -1,0 +1,44 @@
+body {
+	background-color: #C5FFFD;
+}
+
+h1 {
+	background-color: #1B264F;
+	text-align: center;
+	font-size: 35px;
+	color: white;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+h2 {
+	color: #4A1B51;
+	font-size: 25px;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+p {
+	color: #1B264F;
+	font-size: 18px;
+	font-family: 'Abel', sans-serif;
+}
+
+h3 {
+	color: #4A1B51;
+	font-size: 25px;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+h4 {
+	color: #4A1B51;
+	font-size: 25px;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+ul {
+	color: #1B264F;
+	font-family: 'Abel', sans-serif;
+}
+
+footer {
+	text-align: center;
+}
